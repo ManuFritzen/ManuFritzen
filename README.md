@@ -1,6 +1,5 @@
 ### Olá! Eu sou Emanuelle Fritzen Machado, conhecida como MANU!
 
-Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho na Universidade Federal de Rio Grande - FURG
 - 🌱 Estudando HTML, CSS, JS
