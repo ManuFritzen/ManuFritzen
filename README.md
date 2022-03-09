@@ -1,9 +1,9 @@
-### Olá! Eu sou Emanuelle Fritzen Machado, conhecida como MANU!
+### Hello! I am Emanuelle Fritzen Machado!
 
 
-- 🔭 Hoje trabalho na Universidade Federal de Rio Grande - FURG
-- 🌱 Estudando HTML, CSS, JS
-- 📫 Meu e-mail para contato: manufritzenpro@gmail.com
+- 🔭 I am work in  Federal University Rio Grande - FURG
+- 🌱 Studying HTML, CSS, JS
+- 📫 my e-mail for contact: manufritzenpro@gmail.com
 
 <div align="center">
   <a href="https://github.com/ManuFritzen">
