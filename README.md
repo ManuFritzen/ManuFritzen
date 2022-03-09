@@ -1,4 +1,4 @@
-### Hello! I am Emanuelle Fritzen Machado!
+### Hello! I am Emanuelle Fritzen Machado, known as Manu!
 
 
 - 🔭 I am work in  Federal University Rio Grande - FURG
