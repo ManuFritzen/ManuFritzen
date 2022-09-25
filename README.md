@@ -2,7 +2,7 @@
 
 
 - 🔭 I am work in  Federal University Rio Grande - FURG
-- 🌱 Studying HTML, CSS, JS
+- 🌱 Studying JS, Java, ReactJS, MySQL, NodeJS...
 - 📫 my e-mail for contact: manufritzenpro@gmail.com
 
 <div align="center">
