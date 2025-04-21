@@ -1,7 +1,6 @@
 ### Hello! I am Emanuelle Fritzen Machado, known as Manu!
 
 
-- 🔭 I am work in  Federal University Rio Grande - FURG
 - 🌱 University student at the Federal Institute of Rio Grande do Sul. Studying JS, Java, ReactJS, MySQL, NodeJS...
 - 📫 my e-mail for contact: manufritzenpro@gmail.com
 
