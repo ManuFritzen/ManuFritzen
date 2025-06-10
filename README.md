@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/mother.coding/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:manufritzenpro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuelle-fritzen-machado-6b5bb122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.emanuellefritzenmachado.net" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=link&logoColor=white" target="_blank"></a> 
+  <a href="https://www.emanuellefritzenmachado.net" target="_blank"><img src="https://img.shields.io/badge/link%20site-8A2BE2" target="_blank"></a> 
 
     
     
